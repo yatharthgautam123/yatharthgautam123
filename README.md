@@ -4,12 +4,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0600F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner." alt="Typing SVG" /></a>
 </div>
 <br>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123" /> </p>
 </div>
 <br>
 <div align="center">
-  <ul style="list-style-type: none">
+  <ul style="list-style-type:none">
     <li>🔭 I’m very interested in **Machine Learning and Development**</li>
     <li>🌱 I’m currently learning **Devops** </li>
     <li>👯 I’m looking to collaborate on **projects** </li>
