@@ -3,15 +3,19 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0600F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner." alt="Typing SVG" /></a>
 </div>
+<br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123" /> </p>
 </div>
+<br>
 <div align="center">
-🔭 I’m very interested in **Machine Learning and Development**
-👨‍💻 All of my projects are available [here](https://github.com/yatharthgautam123?tab=repositories)
-🌱 I’m currently learning **Devops** 
-👯 I’m looking to collaborate on **projects**
-📫 Reach me at **yatharthgautamcr7@gmail.com**
+  <ul>
+    <li>🔭 I’m very interested in **Machine Learning and Development**</li>
+    <li>👨‍💻 All of my projects are available [here](https://github.com/yatharthgautam123?tab=repositories)</li>
+    <li>🌱 I’m currently learning **Devops** </li>
+    <li>👯 I’m looking to collaborate on **projects** </li>
+    <li>📫 Reach me at **yatharthgautamcr7@gmail.com**</li>
+  </ul>
 </div>
 <br>
 <h2 align="center">🌐 Connect with me:</h2>
