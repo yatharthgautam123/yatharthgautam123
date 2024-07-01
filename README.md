@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/lps5rNe)
+![Banner](https://github.com/yatharthgautam123/yatharthgautam123/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.jpg?raw=true)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner.)](https://git.io/typing-svg)
 
