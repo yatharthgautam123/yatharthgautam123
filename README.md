@@ -4,9 +4,9 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123" /> 
+<img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123"/> 
 </div>
-<br>
+
 <div align="center">
 🔭 I’m very interested in <b>Machine Learning and Development</b>
     <br>
