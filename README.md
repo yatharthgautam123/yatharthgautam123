@@ -1,7 +1,8 @@
 ![Banner](https://github.com/yatharthgautam123/yatharthgautam123/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.jpg?raw=true)
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner.)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Yatharth" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+student+and+an+aspiring+learner." alt="Typing SVG" /></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123" /> </p>
