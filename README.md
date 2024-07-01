@@ -1,30 +1,25 @@
 ![Banner](https://github.com/yatharthgautam123/yatharthgautam123/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.jpg?raw=true)
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+I'm+Yatharth" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+student+and+an+aspiring+learner." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0600F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner." alt="Typing SVG" /></a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123" /> </p>
 </div>
 <div align="center">
-- 🔭 I’m very interested in **Machine Learning and Development**
-
-- 👨‍💻 All of my projects are available [here](https://github.com/yatharthgautam123?tab=repositories)
-  
-- 🌱 I’m currently learning **Devops**
-  
-- 👯 I’m looking to collaborate on **projects**
-
-- 📫 Reach me at **yatharthgautamcr7@gmail.com**
+🔭 I’m very interested in **Machine Learning and Development**
+👨‍💻 All of my projects are available [here](https://github.com/yatharthgautam123?tab=repositories)
+🌱 I’m currently learning **Devops** 
+👯 I’m looking to collaborate on **projects**
+📫 Reach me at **yatharthgautamcr7@gmail.com**
 </div>
-
+<br>
 <h2 align="center">🌐 Connect with me:</h2>
 <div align="center">
     <a href="www.linkedin.com/in/gautamyatharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharthgautam123" height="30" width="40" /></a>
 <a href="https://kaggle.com/yatharthgautam123789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yatharthgautam123789" height="30" width="40" /></a>
 </div>
-
+<br>
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -44,7 +39,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </div>
-
+<br>
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yatharthgautam123&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/><br/>
