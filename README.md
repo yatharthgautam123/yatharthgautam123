@@ -1,24 +1,26 @@
 ![Banner](https://github.com/yatharthgautam123/yatharthgautam123/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20.jpg?raw=true)
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0600F7&center=true&vCenter=true&multiline=true&width=435&lines=Hey%2C+I'm+Yatharth.;A+student+and+an+aspiring+learner." alt="Typing SVG">
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=yatharthgautam123&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthgautam123"/> 
 </div>
 
 <br>
 
 <div align="center">
-  <ul style="list-style: none;">
-    <li>🔭 I’m very interested in <b>Machine Learning and Development</b></li>
-    <li>🌱 I’m currently learning <b>Devops</b></li>
-    <li>👯 I’m looking to collaborate on <b>Projects</b></li>
-    <li>📫 Reach me at <b>yatharthgautamcr7@gmail.com</b></li>
-  </ul>
+    🔭 I’m very interested in <b>Machine Learning and Development</b>
+    <br>
+    🌱 I’m currently learning <b>Devops</b>
+    <br>
+    👯 I’m looking to collaborate on <b>Projects</b>
+    <br>
+    📫 Reach me at <b>yatharthgautamcr7@gmail.com</b>
+
 </div>
 
 <br>
